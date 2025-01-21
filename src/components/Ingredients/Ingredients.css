@@ -1,0 +1,13 @@
+.IngredientsSection{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    width: 80%;
+    padding: 0px 5%;
+}
+
+.IngredientsSection > ol > li{
+    font-weight: 500;
+    font-size: large;
+    line-height: 170%;
+}
